@@ -84,7 +84,7 @@ body{
 }
 #event_analysis .col-md-4:hover{
     text-align:center;
-    background: #f1f1f1;
+    /*background: #f1f1f1;*/
     box-shadow: 1px 1px 4px #ccc;
 }
 #event_analysis a{
@@ -121,7 +121,7 @@ body{
 }
 #ai_market .col-md-4:hover{
     text-align:center;
-    background: #f1f1f1;
+    /*background: #f1f1f1;*/
     box-shadow: 1px 1px 4px #ccc;
 }
 #ai_market a{
@@ -149,7 +149,7 @@ body{
 }
 #ai_examine .col-md-4:hover{
     text-align:center;
-    background: #f1f1f1;
+    /*background: #f1f1f1;*/
     box-shadow: 1px 1px 4px #ccc;
 }
 #ai_examine a{
