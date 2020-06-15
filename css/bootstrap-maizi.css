@@ -44,7 +44,7 @@ body{
 /*home*/
 #home{
     margin-top: 70px;
-    background: url("../images/home-bg.jpg");
+    /*background: url("../images/home-bg.jpg");*/
     background-size: cover;
     color: #ffffff;
     text-align: center;
@@ -66,7 +66,8 @@ body{
     line-height: 35px;
 }
 #home img{
-    margin-top: 30px;
+    width: 100%;
+    /*margin-top: 30px;*/
     display: inline-block;
 }
 /*event_analysis*/
