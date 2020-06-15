@@ -97,9 +97,72 @@ body{
 #event_analysis h3{
     font-weight: bold;
 }
+
+
 /*#event_analysis p{*/
 /*    width: 300px;*/
 /*}*/
+
+
+
+
+    /*ai_market*/
+#ai_market{
+    padding: 40px 0;
+    text-align: center;
+}
+#ai_market .col-md-4{
+    text-align:center;
+    padding: 60px;
+}
+#ai_market .an_item{
+    align-self: center;
+    background-color: #1C9982;
+}
+#ai_market .col-md-4:hover{
+    text-align:center;
+    background: #f1f1f1;
+    box-shadow: 1px 1px 4px #ccc;
+}
+#ai_market a{
+    color: #212121;
+    text-decoration: none;
+}
+#ai_market img{
+    margin: 0 auto;
+}
+#ai_market h3{
+    font-weight: bold;
+}    /*ai_market*/
+
+#ai_examine{
+    padding: 40px 0;
+    text-align: center;
+}
+#ai_examine .col-md-4{
+    text-align:center;
+    padding: 60px;
+}
+#ai_examine .an_item{
+    align-self: center;
+    background-color: #1C9982;
+}
+#ai_examine .col-md-4:hover{
+    text-align:center;
+    background: #f1f1f1;
+    box-shadow: 1px 1px 4px #ccc;
+}
+#ai_examine a{
+    color: #212121;
+    text-decoration: none;
+}
+#ai_examine img{
+    margin: 0 auto;
+}
+#ai_examine h3{
+    font-weight: bold;
+}
+
 
 /*HTML5 + bootstrap*/
 #html5{
